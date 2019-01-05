@@ -1,0 +1,1 @@
+SELECT products.id,products.name,categories.name as categori FROM products JOIN categories ON (products.category_id=categories.id)
