@@ -19,6 +19,6 @@ Saya menggunakan Bahasa Pemrograman PHP dan Mysql pada database
 # Jawaban No 5 pada file soal5.php
 
 # Jawaban No 6 pada file arkademy.sql
-Buat table dengan nama arkademy pada mysql lalu import arkademy.sql
-
+A. Buat table dengan nama arkademy pada mysql lalu import arkademy.sql
+B. Jawaban pada file query.txt
 # Jawaban No 7 pada file soal7.php
